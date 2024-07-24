@@ -15,4 +15,4 @@ To sum up, the primary objective of this study was to provide a suitable model f
 
 **Note that:** Our decision to employ the SVM model for this classification task is validated by its performance on the provided dummy data. The model demonstrates high precision, showcasing its reliability in predicting the positive class. While the recall is not perfect, it captures a substantial portion of actual positive instances. To further enhance model robustness and generalization, we recommend additional evaluation on more diverse and realistic datasets. Exploring hyper-parameter tuning and cross-validation can optimize the SVM model's performance, ensuring its effectiveness in real-world scenarios.
 
-<u>**I have also attached the final report of this project**</u>
+<u><strong>I have also attached the final report of this project</strong></u>
